@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* фон */
+.page {
+		width: 100%;
+		background-color: #f0f0f0;
+}
+/* визитка */
+.business_card {
+	height: 750px;
+	width: 400px;
+	margin: auto ;
+	padding: 10px 50px 0 50px;
+	background-color: white;
+	box-shadow: 0px 0px 5px 1px rgb(180, 180, 180);
+	color: black;
+	font-size: 16px;
+}
+/* 1st unit */
+.photo {
+	text-align: center;
+}
+.photo p {
+text-align: center;
+}
+/* photo parameters*/
+.photo img {
+	width: 150px;
+	height: 150px;
+}
+/* 2nd unit */
+.frontend {
+
+}
+/* 3rd unit */
+.contacts {
+	line-height: 10px;
+	margin: 0 0 20px 0; 30px 0 25px 0
+}
+/* 4th unit */
+.feedback {
+
+}
